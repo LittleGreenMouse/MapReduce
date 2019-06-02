@@ -100,6 +100,8 @@ Calculate mean score from student transcript by studnet and by subject
   hadoop fs -get /output/SubjectMean/part-r-00000 SubjectMean.txt
   ```
 
+---
+
 ## GrandchildGrandparent
 Input a child-parent file, find all grandchild-grandparent. Suppose there is no same name
 
